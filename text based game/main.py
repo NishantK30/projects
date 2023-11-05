@@ -37,4 +37,3 @@ while True:
     game.run()
     pygame.display.update()
     
-    
